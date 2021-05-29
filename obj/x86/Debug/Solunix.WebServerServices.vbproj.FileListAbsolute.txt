@@ -1,0 +1,10 @@
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\Solunix.WebServerServices\bin\Debug\Solunix.WebServerServices.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\Solunix.WebServerServices\bin\Debug\Solunix.WebServerServices.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\Solunix.WebServerServices\bin\Debug\Solunix.WebServerServices.xml
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\Solunix.WebServerServices\obj\x86\Debug\Solunix.WebServerServices.Resources.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\Solunix.WebServerServices\obj\x86\Debug\Solunix.WebServerServices.ProjectInstaller.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\Solunix.WebServerServices\obj\x86\Debug\Solunix.WebServerServices.ServiceRestart.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\Solunix.WebServerServices\obj\x86\Debug\Solunix.WebServerServices.vbproj.GenerateResource.Cache
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\Solunix.WebServerServices\obj\x86\Debug\Solunix.WebServerServices.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\Solunix.WebServerServices\obj\x86\Debug\Solunix.WebServerServices.xml
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\Solunix.WebServerServices\obj\x86\Debug\Solunix.WebServerServices.pdb
