@@ -8,6 +8,7 @@ Public Class HandlerClass
             controller.Stop()
             controller.WaitForStatus(ServiceControllerStatus.Stopped)
             controller.Start()
+            'stop after the service is up not downb
             controller.WaitForStatus(ServiceControllerStatus.Running)
             controller2.Stop()
         Catch ex As Exception
